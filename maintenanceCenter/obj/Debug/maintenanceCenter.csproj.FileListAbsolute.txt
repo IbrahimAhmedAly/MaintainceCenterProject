@@ -1,0 +1,1095 @@
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-2\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-3\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-4\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-5\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-6\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-7\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-8\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-9\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-10\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-11\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-12\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-13\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-14\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-15\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe.config
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\maintenanceCenter.pdb
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EnvDTE.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\stdole.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.xml
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csprojAssemblyReference.cache
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Form1.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.MainForm.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Properties.Resources.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills_Calculation.BillsCalculation.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.AddBill.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Bills.DeviceReview.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Bills.ViewBills.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.NewUser.NewUser.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.AddTechnical.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.Screens.Technicals.ViewTechniclas.resources
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.GenerateResource.cache
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CoreCompileInputs.cache
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.csproj.CopyComplete
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.exe
+D:\Projects\New folder (2)\final folders for maintaince center\New folder\update-16\maintenanceCenter\maintenanceCenter\obj\Debug\maintenanceCenter.pdb
